@@ -1,0 +1,20 @@
+body{
+   background: url(style/apple.jpg);
+   background-size: 100%;
+  
+}
+li{
+    color: rgb(0, 0, 0);
+}
+.one{
+    background-color: antiquewhite;
+    margin: 0px 400px;
+}
+.two{
+    background-color: antiquewhite;
+    margin: 0px 400px;
+}
+.three{
+    background-color: antiquewhite;
+    margin: 0px 400px;
+}
